@@ -65,6 +65,8 @@ are defined today:
 Guilds are small groups of people from various roles, that self organize and work
 towards a shared set of goals.
 
+Each guild will maintain a *charter* that lists the goals and ongoing work of the team.  In addition, each guild will elect a *speaker*.
+
 We currently use three types of guilds.
 
 **Initiative Guilds** - Organized around a specific strategic initiative, initiative guilds
